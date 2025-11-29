@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml:2:13-83
-INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml:2:13-83
+ADDED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml:2:13-83
+INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml:2:13-83
 	package
-		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml
+		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml
 	xmlns:android
-		ADDED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml:2:23-81
+		ADDED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml:2:23-81
 uses-sdk
-INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml reason: use-sdk injection requested
-INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml
-INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml
+INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml reason: use-sdk injection requested
+INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml
+INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml
 	android:targetSdkVersion
-		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml
+		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml
 	android:minSdkVersion
-		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest13256138830046195260.xml
+		INJECTED from G:\android app\AutoJs6\modules\jieba-analysis\build\intermediates\tmp\ProcessLibraryManifest\debug\tempAndroidManifest16589295794694601248.xml
