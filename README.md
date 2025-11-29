@@ -5,9 +5,9 @@
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues
     "><img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/t/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
-    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/commits/main/"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/COLDESTBOW30654/Automatic-spark-renewal-APP
+    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/commits/master/"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/COLDESTBOW30654/Automatic-spark-renewal-APP
     "/></a>
-    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/main/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
+    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <br>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
