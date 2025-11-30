@@ -70,7 +70,13 @@ JavaScript
 
 ### 下载修改版 AutoJs6：
 
+#### 在这里浏览最新构建(这里包含未发布的更新与修复)
+
 [工作流程运行 ·COLDESTBOW30654/Automatic-spark-renewal-APP --- Workflow runs · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/actions)
+
+#### 在这里浏览最新发布的版本(这里包含正式版与测试版)
+
+[Releases · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/releases)
 
 ### 下载或复制代码：
 
