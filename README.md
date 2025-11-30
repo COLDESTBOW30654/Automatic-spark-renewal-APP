@@ -32,14 +32,36 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
 
 ### 软件架构：
 
-[AutoJs6](https://github.com/SuperMonster003/AutoJs6)
+- [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 
-JavaScript
+- JavaScript
 
 ### 环境：
 
 - Android 操作系统
 - [API](https://developer.android.com/guide/topics/manifest/uses-sdk-element#ApiLevels) [24](https://developer.android.com/reference/android/os/Build.VERSION_CODES#N) ([7.0](https://zh.wikipedia.org/wiki/Android_Nougat)) [[N](https://developer.android.com/reference/android/os/Build.VERSION_CODES#N)] 及以上
+
+### 下载修改版 AutoJs6：
+
+#### 在这里浏览最新构建(这里包含未发布的更新与修复)
+
+[工作流程运行 ·COLDESTBOW30654/Automatic-spark-renewal-APP --- Workflow runs · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/actions)
+
+#### 在这里浏览最新发布的版本(这里包含正式版与测试版)
+
+- GitHub releases(需要加速器)
+
+​	[Releases · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/releases)
+
+- gitee releases(国内镜像)
+
+​	[Automatic-spark-renewal-APP 发行版 - Gitee.com](https://gitee.com/coldestbow30654/Automatic-spark-renewal-APP/releases)
+
+### 下载或复制代码：
+
+请前往脚本原项目仓库下载或复制
+
+[COLDESTBOW30654/Automatic-spark-renewal: 基于 AutoJS6 的快手自动续火花脚本](https://github.com/coldestbow30654/automatic-spark-renewal)
 
 ### 脚本所需权限:
 
@@ -67,22 +89,6 @@ JavaScript
 
 - shizuku 权限
 - Root 权限
-
-### 下载修改版 AutoJs6：
-
-#### 在这里浏览最新构建(这里包含未发布的更新与修复)
-
-[工作流程运行 ·COLDESTBOW30654/Automatic-spark-renewal-APP --- Workflow runs · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/actions)
-
-#### 在这里浏览最新发布的版本(这里包含正式版与测试版)
-
-[Releases · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/releases)
-
-### 下载或复制代码：
-
-请前往脚本原项目仓库下载或复制
-
-[COLDESTBOW30654/Automatic-spark-renewal: 基于 AutoJS6 的快手自动续火花脚本](https://github.com/coldestbow30654/automatic-spark-renewal)
 
 ### 注意事项：
 
@@ -168,6 +174,10 @@ A: 脚本需要的权限是模拟电源按键熄屏，如果没有这个权限�
 ###### 2025/09/13
 
 - `新增` 自动检查更新逻辑
+
+###### 2025/11/30
+
+- `新增` 修改版AutoJS
 
 #### v0.2.0
 
