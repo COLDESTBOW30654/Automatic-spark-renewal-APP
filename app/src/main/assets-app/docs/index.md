@@ -35,7 +35,7 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
 
 **看不懂可以用懒人版，但稳定性较差，不过不需要多余的软件，只要下载 Autojs6 即可**
 
-[快手自动续火花脚本-懒人版(文字版教程)](.document/Document-Lazy.md)
+[快手自动续火花脚本-懒人版(文字版教程)](./使用教程-懒人版.md)
 
 代码都不想看？试试官网中的”脚本构建“功能吧
 
@@ -83,6 +83,8 @@ JavaScript
 
 - shizuku 权限
 
+- Root 权限
+
 ### 下载或复制代码：
 
 ##### 这里不提供懒人版，懒人版在"懒人版文字教程"提供复制
@@ -93,7 +95,7 @@ JavaScript
 
 **Root 版：**[快手自动续火花脚本-Root](../sample/快手自动续火花脚本-Root.js)
 
-**懒人版：**[懒人版文字教程](/使用教程-懒人版.html)
+**懒人版：**[懒人版文字教程](./使用教程-懒人版.html)
 
 **开发版：**[快手自动续火花脚本-开发版](../sample//快手自动续火花脚本-开发版.js)
 
@@ -102,7 +104,7 @@ JavaScript
 1. 如果你不需要使用密码打开手机，而是直接滑动解锁，请删除红色方框内的代码![code](./photo/code.png)
 2. 请勿同时运行多个重复脚本
 3. 脚本运行过程中请勿进行任何操作
-4. **测试使用版本**： autojs 版本[(6.6.4)](https://pan.huang1111.cn/s/byQ1qcY) 快手版本[(13.7.30.43728)](https://pan.huang1111.cn/s/Wz33Pf3) 理论上支持所有快手版本，只要快手界面不进行特别大的改动都可以支持
+4. **测试使用版本**： autojs 版本[(6.6.4)](https://pan.huang1111.cn/s/byQ1qcY) 修改版auojs 版本[(1.0.0)](https://pan.huang1111.cn/s/G8wD6sW) 快手版本[(13.7.30.43728)](https://pan.huang1111.cn/s/Wz33Pf3) 理论上支持所有快手版本，只要快手界面不进行特别大的改动都可以支持
 5. 若新版本的脚本使用有问题，例如通过按钮名称自动寻找按钮位置点击无法生效，请尝试修改部分点击坐标的位置
 6. 需将发送消息的方式修改为发送按键
 7. 确保给予 shizuku 或 Root 权限
@@ -111,7 +113,7 @@ JavaScript
 
 | 计划             | 立项时间   | 完成时间   | 完成情况 | 描述                                                         |
 | ---------------- | ---------- | ---------- | -------- | ------------------------------------------------------------ |
-| 推出独立的应用   | 2025-09-20 | 2025-11-29 | ✓        | 将脚本内置在autojs6应用中     *偷偷告诉你：关于界面被我改炸了*(。・ω・。) |
+| 推出独立的应用   | 2025-09-20 | 2025-11-29 | ✓        | 将脚本内置在autojs6应用中|
 | 多应用自动续火花 | 2025-09-12 | ✕          | ✕        |                                                              |
 | 自动更新脚本     | 2025-09-12 | 2025-09-13 | ✓        | 无法通过通知跳转到更新网址，需要手动去日志里复制网址         |
 | 简化脚本使用条件 | 2025-09-12 | 2025-11-1  | ✓        | 通过项目网站进行构建，简化用户修改代码[(点击我跳转项目官网构建)](https://automation.hengduan.dpdns.org/build.html) |
@@ -129,15 +131,23 @@ JavaScript
 
 4. 在哔哩哔哩平台中我的相关视频评论
 
-5. 在 GitHub 中的项目里提交 issue
+5. 在 GitHub 中的脚本项目里提交 issue
 
-   [Issues · COLDESTBOW30654/Automatic-spark-renewal](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+   [Issues · COLDESTBOW30654/Automatic-spark-renewal](https://github.com/COLDESTBOW30654/Automatic-spark-renewal/issues)
 
-6. 在 Gitee 中的项目里提交 issue
+6. 在 Gitee 中的脚本项目里提交 issue
 
-   [Issues · 白鹿原嚒/automatic-spark-renewal](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+   [Issues · 白鹿原嚒/automatic-spark-renewal](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal/issues)
 
-7. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.dpdns.org
+7. 在 GitHub 中的AutoJS修改版项目里提交 issue
+
+   [Issues · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+
+8. 在 Gitee 中的AutoJS修改版项目里提交 issue
+
+   [Issues · 白鹿原嚒/automatic-spark-renewal-APP](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+
+9. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.dpdns.org
 
 ##### 在反馈时可以使用开发版[(点我跳转开发版)](/.code/快手自动续火花脚本-开发版.js)先运行一遍，然后向我反馈的时候附赠运行日志
 

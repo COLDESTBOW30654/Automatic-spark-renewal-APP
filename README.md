@@ -7,7 +7,7 @@
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/commits/master/"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/COLDESTBOW30654/Automatic-spark-renewal-APP
     "/></a>
-    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
+    <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/COLDESTBOW30654/Automatic-spark-renewal-APP""/></a>
     <br>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
@@ -22,7 +22,7 @@
 
 ### 前言:
 
-本作品是基于[SuperMonster003/AutoJs6: 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)](https://github.com/SuperMonster003/AutoJs6)二次修改打包制作的快手自动续火花脚本
+本作品是基于[SuperMonster003/AutoJs6: 安卓平台 JavaScript 自动化工具 (Auto.js 二次开发项目)](https://github.com/SuperMonster003/AutoJs6)二次修改打包制作 Autojs6，并且将快手自动续火花脚本内置在应用中
 
 快手自动续火花脚本项目地址：[[COLDESTBOW30654/Automatic-spark-renewal: 基于AutoJS6的快手自动续火花脚本]](https://www.bilibili.com/video/BV1zb3xzUEXj)
 
@@ -30,31 +30,16 @@
 
 bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibili.com/video/BV11beMzNEgS)
 
-### 使用说明：
-
-**看不懂可以用懒人版，但稳定性较差，不过不需要多余的软件，只要下载 Autojs6 即可**
-
-[快手自动续火花脚本-懒人版(文字版教程)](.document/Document-Lazy.md)
-
-代码都不想看？试试官网中的”脚本构建“功能吧
-
-[点击我跳转项目官网](https://automation.hengduan.dpdns.org/build.html)
-
-**您可以访问每个版本专属的文字版教程**
-
-[快手自动续火花脚本-shizuku(文字版教程)](.document/Document-shizuku.md)
-[快手自动续火花脚本-Root(文字版教程)](.document/Document-Root.md)
-
-**如果以上文字版教程看不懂可以看视频版**
-
-[快手自动自动续火花-教程(快手观看)](https://www.kuaishou.com/short-video/3xywczexb6t35cw)
-[快手自动自动续火花-教程(哔哩哔哩观看)](https://www.bilibili.com/video/BV1J5Y9zEECi/)
-
 ### 软件架构：
 
 [AutoJs6](https://github.com/SuperMonster003/AutoJs6)
 
 JavaScript
+
+### 环境：
+
+- Android 操作系统
+- [API](https://developer.android.com/guide/topics/manifest/uses-sdk-element#ApiLevels) [24](https://developer.android.com/reference/android/os/Build.VERSION_CODES#N) ([7.0](https://zh.wikipedia.org/wiki/Android_Nougat)) [[N](https://developer.android.com/reference/android/os/Build.VERSION_CODES#N)] 及以上
 
 ### 脚本所需权限:
 
@@ -81,35 +66,36 @@ JavaScript
 **_其他非系统权限_**(根据你阅读的文档来判断是否需要给予，如果你手机本身开着自动熄屏且时间很短可不选)
 
 - shizuku 权限
+- Root 权限
 
-### 下载修改版AutoJs6：
+### 下载修改版 AutoJs6：
 
 [工作流程运行 ·COLDESTBOW30654/Automatic-spark-renewal-APP --- Workflow runs · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/actions)
 
 ### 下载或复制代码：
 
-请前往项目仓库下载或复制
+请前往脚本原项目仓库下载或复制
 
-[COLDESTBOW30654/Automatic-spark-renewal: 基于AutoJS6的快手自动续火花脚本](https://github.com/coldestbow30654/automatic-spark-renewal)
+[COLDESTBOW30654/Automatic-spark-renewal: 基于 AutoJS6 的快手自动续火花脚本](https://github.com/coldestbow30654/automatic-spark-renewal)
 
 ### 注意事项：
 
 1. 请勿同时运行多个重复脚本
 2. 脚本运行过程中请勿进行任何操作
-3. **测试使用版本**： autojs 版本[(1.0.0)](https://pan.huang1111.cn/s/byQ1qcY) 快手版本[(13.7.30.43728)](https://pan.huang1111.cn/s/Wz33Pf3) 理论上支持所有快手版本，只要快手界面不进行特别大的改动都可以支持
+3. **测试使用版本**： 修改版 autojs 版本[(1.0.0)](https://pan.huang1111.cn/s/G8wD6sW) 快手版本[(13.7.30.43728)](https://pan.huang1111.cn/s/Wz33Pf3) 理论上支持所有快手版本，只要快手界面不进行特别大的改动都可以支持
 4. 若新版本的脚本使用有问题，例如通过按钮名称自动寻找按钮位置点击无法生效，请尝试修改部分点击坐标的位置
 5. 需将发送消息的方式修改为发送按键
 6. 确保给予 shizuku 或 Root 权限
 
 ### 未来更新计划
 
-| 计划             | 立项时间   | 完成时间   | 完成情况 | 描述                                                         |
-| ---------------- | ---------- | ---------- | -------- | ------------------------------------------------------------ |
-| 推出独立的应用   | 2025-09-20 | 2025-11-29 | ✓        | 将脚本内置在autojs6应用中                                    |
-| 多应用自动续火花 | 2025-09-12 | ✕          | ✕        |                                                              |
-| 自动更新脚本     | 2025-09-12 | 2025-09-13 | ✓        | 无法通过通知跳转到更新网址，需要手动去日志里复制网址         |
+| 计划             | 立项时间   | 完成时间   | 完成情况 | 描述                                                                                                               |
+| ---------------- | ---------- | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------ |
+| 推出独立的应用   | 2025-09-20 | 2025-11-29 | ✓        | 将脚本内置在 autojs6 应用中                                                                                        |
+| 多应用自动续火花 | 2025-09-12 | ✕          | ✕        |                                                                                                                    |
+| 自动更新脚本     | 2025-09-12 | 2025-09-13 | ✓        | 无法通过通知跳转到更新网址，需要手动去日志里复制网址                                                               |
 | 简化脚本使用条件 | 2025-09-12 | 2025-11-1  | ✓        | 通过项目网站进行构建，简化用户修改代码[(点击我跳转项目官网构建)](https://automation.hengduan.dpdns.org/build.html) |
-| 适配更多安卓设备 | 2025-09-12 | ✕          | ✕        |                                                              |
+| 适配更多安卓设备 | 2025-09-12 | ✕          | ✕        |                                                                                                                    |
 
 ### 问题反馈:
 
@@ -123,15 +109,23 @@ JavaScript
 
 4. 在哔哩哔哩平台中我的相关视频评论
 
-5. 在 GitHub 中的项目里提交 issue
+5. 在 GitHub 中的脚本项目里提交 issue
 
-   [Issues · COLDESTBOW30654/Automatic-spark-renewal](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+   [Issues · COLDESTBOW30654/Automatic-spark-renewal](https://github.com/COLDESTBOW30654/Automatic-spark-renewal/issues)
 
-6. 在 Gitee 中的项目里提交 issue
+6. 在 Gitee 中的脚本项目里提交 issue
 
-   [Issues · 白鹿原嚒/automatic-spark-renewal](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+   [Issues · 白鹿原嚒/automatic-spark-renewal](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal/issues)
 
-7. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.dpdns.org
+7. 在 GitHub 中的AutoJS修改版项目里提交 issue
+
+   [Issues · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+
+8. 在 Gitee 中的脚本项目里提交 issue
+
+   [Issues · 白鹿原嚒/automatic-spark-renewal-APP](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
+
+9. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.dpdns.org
 
 ##### 在反馈时可以使用开发版[(点我跳转开发版)](/.code/快手自动续火花脚本-开发版.js)先运行一遍，然后向我反馈的时候附赠运行日志
 
@@ -159,7 +153,7 @@ A: 脚本需要的权限是模拟电源按键熄屏，如果没有这个权限�
 
 ##### 在下载、安装或使用本脚本（以下简称“脚本”）之前，请您务必仔细阅读并充分理解[用户使用协议](LICENSE.md)的所有条款。您的下载、安装或使用行为即被视为您已完全阅读、理解并同意接受本协议的全部条款约束。如果您不同意本协议的任何内容，请立即停止使用并删除本脚本。
 
-### 仓库与脚本更新历史
+### 脚本更新历史
 
 ---
 

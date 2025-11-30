@@ -393,8 +393,8 @@ public class UpdateChecker {
         Language language = Objects.requireNonNullElse(Language.getPrefLanguageOrNull(), Language.EN);
         String languageTag = language.getLocalCompatibleLanguageTag();
         String urlSuffix = "app/src/main/assets-app/doc/CHANGELOG-" + languageTag + ".md";
-        String urlBlob = "https://github.com/SuperMonster003/AutoJs6/blob/master/" + urlSuffix;
-        String urlRaw = "https://raw.githubusercontent.com/SuperMonster003/AutoJs6/master/" + urlSuffix;
+        String urlBlob = "https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/master/" + urlSuffix;
+        String urlRaw = "https://raw.githubusercontent.com/COLDESTBOW30654/Automatic-spark-renewal-APP/master/" + urlSuffix;
 
         Observable<Spanned> obsBlob = getStreamingApi()
                 .streamingUrl(urlBlob)
