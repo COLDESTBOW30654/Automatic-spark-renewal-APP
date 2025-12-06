@@ -48,13 +48,10 @@ open class AboutActivity : BaseActivity() {
 
     private fun setupBindingListeners() {
         activityBinding.avatarOriginalDeveloper.setOnClickListener { toastForUnderDevelopment() }
-        activityBinding.avatarDeveloper.setOnClickListener { toastForUnderDevelopment() }
 
         activityBinding.avatarOriginalDeveloperUserContents.setOnClickListener { toastForUnderDevelopment() }
-        activityBinding.avatarDeveloperUserContents.setOnClickListener { toastForUnderDevelopment() }
 
         activityBinding.icon1stDeveloperIdentifier.setOnClickListener { toastForFirstDeveloperIdentifier() }
-        activityBinding.icon2ndDeveloperIdentifier.setOnClickListener { toastForSecondDeveloperIdentifier() }
 
         activityBinding.iconAboutAppSvgView.setOnClickListener { showDeviceInfo() }
         activityBinding.iconAboutAppSvgView.setOnLongClickListener { true.also { launchDeveloperOptions() } }
