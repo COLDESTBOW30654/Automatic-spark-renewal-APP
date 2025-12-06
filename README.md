@@ -23,7 +23,7 @@
 
 ### 项目官网：
 
-[https://automation.hengduan.dpdns.org/](https://automation.hengduan.dpdns.org/)
+[https://automation.hengduan.qzz.io/](https://automation.hengduan.qzz.io/)
 
 ### 前言:
 
@@ -111,7 +111,7 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
 | 推出独立的应用   | 2025-09-20 | 2025-11-29 | ✓        | 将脚本内置在 autojs6 应用中                                                                                        |
 | 多应用自动续火花 | 2025-09-12 | ✕          | ✕        |                                                                                                                    |
 | 自动更新脚本     | 2025-09-12 | 2025-09-13 | ✓        | 无法通过通知跳转到更新网址，需要手动去日志里复制网址                                                               |
-| 简化脚本使用条件 | 2025-09-12 | 2025-11-1  | ✓        | 通过项目网站进行构建，简化用户修改代码[(点击我跳转项目官网构建)](https://automation.hengduan.dpdns.org/build.html) |
+| 简化脚本使用条件 | 2025-09-12 | 2025-11-1  | ✓        | 通过项目网站进行构建，简化用户修改代码[(点击我跳转项目官网构建)](https://automation.hengduan.qzz.io/build.html) |
 | 适配更多安卓设备 | 2025-09-12 | ✕          | ✕        |                                                                                                                    |
 
 ### 问题反馈:
@@ -142,7 +142,7 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
 
    [Issues · 白鹿原嚒/automatic-spark-renewal-APP](https://gitee.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues)
 
-9. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.dpdns.org
+9. 发送邮件到我的邮箱：<EMAIL>automatic-spark-renewal@hengduan.qzz.io
 
 ##### 在反馈时可以使用开发版[(点我跳转开发版)](/.code/快手自动续火花脚本-开发版.js)先运行一遍，然后向我反馈的时候附赠运行日志
 
