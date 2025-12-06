@@ -7,7 +7,12 @@
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/issues"><img alt="GitHub closed issues" src="https://img.shields.io/github/issues/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/commits/master/"><img alt="GitHub Created At" src="https://img.shields.io/github/created-at/COLDESTBOW30654/Automatic-spark-renewal-APP
     "/></a>
+    <br>
+    <a href="http://download.autojs6.com"><img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/blob/master/LICENSE"><img alt="GitHub License" src="https://img.shields.io/github/license/COLDESTBOW30654/Automatic-spark-renewal-APP""/></a>
+    <br>
+    <a href="https://github.com/mozilla/rhino"><img alt="Rhino" src="https://img.shields.io/badge/rhino-1.8.1--SNAPSHOT-795548"/></a>
+    <a href="https://developer.android.com/studio/archive"><img alt="Android Studio" src="https://img.shields.io/badge/android%20studio-2022.1+-B64FC8"/></a>
     <br>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/stargazers"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
     <a href="https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/forks"><img alt="GitHub forks" src="https://img.shields.io/github/forks/COLDESTBOW30654/Automatic-spark-renewal-APP"/></a>
@@ -43,7 +48,7 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
 
 ### 下载修改版 AutoJs6：
 
-#### 在这里浏览最新构建(这里包含未发布的更新与修复)
+#### 在这里浏览最新构建(这里包含未发布的更新与版本)
 
 [工作流程运行 ·COLDESTBOW30654/Automatic-spark-renewal-APP --- Workflow runs · COLDESTBOW30654/Automatic-spark-renewal-APP](https://github.com/COLDESTBOW30654/Automatic-spark-renewal-APP/actions)
 
@@ -147,6 +152,7 @@ bilibili 视频介绍：[快手自动续火花脚本-介绍](https://www.bilibil
       <img src=".photo/photo-2.png" alt="" border="0"/>
    </div>
 </details>
+
 ### 常见问题回答：
 
 Q: 我不会使用 shizuku，手机又没 root 怎么办？
@@ -173,69 +179,4 @@ A: 脚本需要的权限是模拟电源按键熄屏，如果没有这个权限�
 
 ###### 2025/09/13
 
-- `新增` 自动检查更新逻辑
-
-###### 2025/11/30
-
-- `新增` 修改版AutoJS
-
-#### v0.2.0
-
-###### 2025/09/13
-
-- `新增` 快手自动续火花脚本-开发版-Beta.js
-- `新增` 自动检查更新逻辑
-
-#### v0.1.4
-
-###### 2025/09/07
-
-- `新增` README 问题反馈板块
-- `新增` 快手自动续火花脚本-开发版.js
-
-#### v0.1.3
-
-###### 2025/09/05
-
-- `优化` 格式化仓库文件
-
-#### v0.1.2
-
-###### 2025/08/24
-
-- `新增` Document.md
-- `新增` 快手自动续火花脚本-懒人版-无密码.js
-- `新增` 快手自动续火花脚本-懒人版-有密码.js
-- `优化` README.md
-- `优化` 文字版教程
-
-#### v0.1.1
-
-###### 2025/08/24
-
-- `转移` Document-Root.md
-- `转移` Document-shizuku.md
-- `优化` README.md
-- `优化` 文字版教程
-
-#### v0.1.0
-
-###### 2025/08/23
-
-- `新增` Document-Root.md
-- `新增` Document-shizuku.md
-- `转移` 将图片位置转移至 photo 文件夹
-
-#### v0.0.2
-
-###### 2025/08/22
-
-- `优化` README 界面的使用教程
-
-#### v0.0.1
-
-###### 2025/08/19
-
-- `新增` 快手自动续火花脚本-shizuku.js
-- `新增` 快手自动续火花脚本-Root.js
-- `新增` LICENSE.md
+- `新增` 引入在线文档，将自动续火花脚本集成在内部
