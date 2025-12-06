@@ -7,165 +7,20 @@
 <meta name='apple-mobile-web-app-capable' content='yes'>
 <meta name='apple-mobile-web-app-status-bar-style' content='black'>
 <title>使用教程-懒人版</title>
-<style>
-  /* 基础样式重置 */
-  * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  
-  body {
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-    line-height: 1.6;
-    color: #333;
-    background-color: #f5f5f5;
-    padding: 0;
-    margin: 0;
-    font-size: 16px;
-  }
-  
-  .container {
-    max-width: 100%;
-    margin: 0 auto;
-    padding: 16px;
-    background-color: #fff;
-    min-height: 100vh;
-  }
-  
-  /* 标题样式 */
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 20px;
-    margin-bottom: 15px;
-    color: #2c3e50;
-  }
-  
-  h1 {
-    font-size: 24px;
-    text-align: center;
-    padding: 10px 0;
-    border-bottom: 1px solid #eee;
-    margin-bottom: 20px;
-  }
-  
-  h4 {
-    font-size: 18px;
-    border-left: 4px solid #3498db;
-    padding-left: 10px;
-    margin-top: 25px;
-  }
-  
-  h5 {
-    font-size: 16px;
-    color: #e74c3c;
-    margin-top: 20px;
-  }
-  
-  /* 段落样式 */
-  p {
-    margin-bottom: 16px;
-    font-size: 15px;
-    line-height: 1.7;
-  }
-  
-  /* 列表样式 */
-  ul, ol {
-    margin-bottom: 16px;
-    padding-left: 24px;
-  }
-  
-  li {
-    margin-bottom: 8px;
-    font-size: 15px;
-  }
-  
-  /* 图片样式 */
-  img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 15px auto;
-    border-radius: 4px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
-  }
-  
-  /* 链接样式 */
-  a {
-    color: #3498db;
-    text-decoration: none;
-    display: inline-block;
-    padding: 4px 0;
-    word-break: break-all;
-  }
-  
-  a:hover {
-    text-decoration: underline;
-  }
-  
-  /* 响应式优化 */
-  @media (max-width: 768px) {
-    .container {
-      padding: 12px;
-    }
-    
-    h1 {
-      font-size: 22px;
-    }
-    
-    h4 {
-      font-size: 17px;
-    }
-    
-    p, li {
-      font-size: 14px;
-    }
-    
-    img {
-      margin: 12px auto;
-    }
-  }
-  
-  @media (max-width: 480px) {
-    .container {
-      padding: 10px;
-    }
-    
-    h1 {
-      font-size: 20px;
-    }
-    
-    h4 {
-      font-size: 16px;
-    }
-    
-    p, li {
-      font-size: 13px;
-    }
-    
-    ul, ol {
-      padding-left: 20px;
-    }
-  }
+<link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css'>
+<link rel='stylesheet' href='document-style.css'>
 </style>
 </head>
 <body>
-<div class="container">
+    <!-- 文档内容容器 -->
+    <div class="doc-container">
   <h1 id='autojs6快手自动续火花-懒人版----使用教程文字版'>AutoJS6快手自动续火花-懒人版 使用教程(文字版)</h1>
 <p>文档编写时间：2025年8月24日11点04分</p>
 <h4 id='前言'>前言</h4>
 <p>本文档将介绍如何使用AutoJS6快手自动续火花-懒人版，帮助你轻松实现每日自动续火花。</p>
-<h4 id='准备工作'>准备工作</h4>
-<ul>
-<li>下载并安装AutoJS6：<a href='https://github.com/SuperMonster003/AutoJs6/releases'>点此跳转releases下载</a></li>
 
 </ul>
-<h4 id='步骤一安装autojs6'>步骤一：安装AutoJS6</h4>
-<ul>
-<li>下载并安装AutoJS6：<a href='https://github.com/SuperMonster003/AutoJs6/releases'>点此跳转releases下载</a> 
-如果无法访问可以使用镜像站下载<a href='https://tvv.tw/https://github.com/SuperMonster003/AutoJs6/releases/download/v6.6.4/autojs6-v6.6.4-arm64-v8a-110e6b64.apk'>点此跳转下载AutoJS6(v6.6.4)</a></li>
-
-</ul>
-<h4 id='步骤二配置autojs6'>步骤二：配置AutoJS6</h4>
+<h4 id='步骤一配置autojs6'>步骤一：配置AutoJS6</h4>
 <ol start='' >
 <li><p>安装完成后，根据下图赋予相关权限
 <img src="./photo/photo-1.png" referrerpolicy="no-referrer" alt="photo"></p>
@@ -188,9 +43,9 @@
 </li>
 
 </ol>
-<h4 id='步骤三配置脚本'>步骤三：配置脚本</h4>
+<h4 id='步骤二配置脚本'>步骤二：配置脚本</h4>
 <ul>
-<li>配置前你需要先选择你的脚本<a href='/.code/快手自动续火花脚本-懒人版-有密码.js'>有密码(点击跳转)</a>或者<a href='/.code/快手自动续火花脚本-懒人版-无密码.js'>无密码(点击跳转)</a></li>
+<li>配置前你需要先选择你的脚本<a href='../sample/快手自动续火花脚本-懒人版-有密码.js'>有密码(点击跳转)</a>或者<a href='../sample/快手自动续火花脚本-懒人版-无密码.js'>无密码(点击跳转)</a></li>
 
 </ul>
 <ol start='' >
@@ -200,7 +55,7 @@
 <img src="./photo/code-7.png" referrerpolicy="no-referrer" alt="code-7"></li>
 
 </ol>
-<h4 id='步骤四运行脚本'>步骤四：运行脚本</h4>
+<h4 id='步骤三运行脚本'>步骤三：运行脚本</h4>
 <ol start='' >
 <li>点击运行按钮，脚本开始运行，等待脚本运行完成</li>
 <li>推荐使用定时任务，定时运行脚本</li>
@@ -216,6 +71,13 @@
 <h4 id='重要提示'>重要提示：</h4>
 <h5 id='在下载安装或使用本脚本以下简称脚本之前请您务必仔细阅读并充分理解用户使用协议的所有条款您的下载安装或使用行为即被视为您已完全阅读理解并同意接受本协议的全部条款约束如果您不同意本协议的任何内容请立即停止使用并删除本脚本'>在下载、安装或使用本脚本（以下简称“脚本”）之前，请您务必仔细阅读并充分理解<a href='./LICENSE.html'>用户使用协议</a>的所有条款。您的下载、安装或使用行为即被视为您已完全阅读、理解并同意接受本协议的全部条款约束。如果您不同意本协议的任何内容，请立即停止使用并删除本脚本。</h5>
 <h5 id='脚本仅供个人学习交流使用请勿用于商业用途否则后果自负如您因使用脚本造成任何损失本人概不负责'>脚本仅供个人学习交流使用，请勿用于商业用途，否则后果自负。如您因使用脚本造成任何损失，本人概不负责。</h5>
-</div>
+    </div>
+    
+    <!-- 页脚 -->
+    <footer class="doc-footer">
+        <p>Auto.js 火花续期脚本 © 版权所有</p>
+    </footer>
+    
+
 </body>
 </html>

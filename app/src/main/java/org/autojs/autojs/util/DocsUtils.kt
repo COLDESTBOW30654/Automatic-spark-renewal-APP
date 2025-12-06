@@ -10,7 +10,7 @@ object DocsUtils {
         get() = Pref.getStringOrNull(R.string.key_documentation_source).let {
             when (it == null || isLocal(it)) {
                 true -> "file:///android_asset/docs/"
-                else -> "https://docs.autojs6.com"
+                else -> "https://automation.hengduan.qzz.io/assets/document/"
             }
         }
 
