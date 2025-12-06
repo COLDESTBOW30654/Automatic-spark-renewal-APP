@@ -156,8 +156,8 @@
     <string name="literal_hsv_uppercase" translatable="false">HSV</string>
     <string name="literal_rgb_uppercase" translatable="false">RGB</string>
     <string name="num_zero" translatable="false">0</string>
-    <string name="original_developer_full_name" translatable="false">Stardust</string>
-    <string name="original_developer_nickname" translatable="false">hyb1996</string>
+    <string name="original_developer_full_name" translatable="false">白鹿原嚒</string>
+    <string name="original_developer_nickname" translatable="false">COLDESTBOW30654</string>
     <string name="property_key_app_version_code" translatable="false">VERSION_BUILD</string>
     <string name="property_key_app_version_name" translatable="false">VERSION_NAME</string>
     <string name="symbol_colon" translatable="false">:</string>
